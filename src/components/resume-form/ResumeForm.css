@@ -1,0 +1,22 @@
+.App-img {
+    border-radius: 100%;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+
+  }
+  h1 {
+    text-align: center;
+    color: rgb(112, 2, 2);
+    background-color: rgb(238, 159, 159);
+  }
+  form {
+    width:max-content;
+    border: 5000px;
+  }
+  p {
+    text-align: center;
+    size: 1000cm;
+
+  }
